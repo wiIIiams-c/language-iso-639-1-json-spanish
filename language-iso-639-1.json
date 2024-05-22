@@ -1,4 +1,4 @@
-{
+[
   {"lenguaje":"Abkhaz", "codigo":"ab"},
   {"lenguaje":"Afar", "codigo":"aa"},
   {"lenguaje":"Africanos", "codigo":"af"},
@@ -183,4 +183,4 @@
   {"lenguaje":"Yoruba", "codigo":"yo"},
   {"lenguaje":"Zhuang, Chuang", "codigo":"za"},
   {"lenguaje":"Zulu", "codigo":"zu"} 
-}
+]
